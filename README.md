@@ -18,7 +18,18 @@ Para agregar los videos solo debemos conseguir el iframe, ejemplo con Youtube:
 <br>
 
 Nos dirigimos a crear una entrada nueva, agregamos titulos e imagen destacada. Luego cambiamos el editor a HTML y pegamos el iframe y publicamos :D
+<br>
 <img src="https://i.imgur.com/cRPv1jU.png"/>
+
+<h2>Como editar Cajas meta</h2>
+En el home del theme tenemos dos cajas con la finalidad de SEO o eso pretendia, son muy faciles de editar para eso solo hay que dirigirse al escritorio de Wordpress luego a Apariencia → Editor de Temas y ubicamos a la derecha el archivo index.php.
+<br>
+Ubicamos el comentario "Box" y dentro estara la primera caja que esta al principio, pueden editar a como quieran.
+<br>
+La segunda esta mas abajo con el comentario Box 2
+<br>
+Se recomienda escribir todo en un blog de nota o editor de codigo y luego reemplazar para que no haya errores.
+
 
 <h2>Como Agregar Publicidad en el Sidebar</h2>
 Si tienes planes de monetizar con esta plantilla es un poco complicado agregar los codigos pero solo la primera vez.
@@ -44,9 +55,16 @@ Agreguen el codigo de anuncios de ustedes y listo ya tendran anuncios en el side
 <br>
 3-Ubicamos el comentario que dice "Anuncios" y pegamos el codigo dentro de los comentarios.
 <img src="https://i.imgur.com/QBCbD3N.png"/>
+<br>
 4-Guardamos y listo.
 <br>
 5-Ahora solo debemos hacer lo mismo pero ahora en el que se llama Entrada Individual (Single.php).
+<br>
 <img src="https://i.imgur.com/QBCbD3N.png"/>
 <br>
 6-Guardamos y listo.
+
+##Notas:
+Se que esta todo muy rebuscado pero ire aprendiendo mas para mejorarla y agregar opciones al theme para no tener que ustedes no tengan que tocar el codigo nunca más.
+
+<h3>Hasta entonces!</h3>
