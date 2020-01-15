@@ -1,7 +1,10 @@
-Mr. Adulto es un theme Wordpress para el nicho adulto.
+<h1>Mr. Adulto</h1>
 
+Mr. Adulto Es un theme Wordpress para el nicho adulto.
+
+<div style="background-color:red>
 Ojo! el theme no fue hecho por un profesional, fue hecho desde cero por una sola persona con menos de 1 mes de aprendizaje en desarrollo de Themes para Wordpress.
-
+</div>
 <div class="nota">Nota: Es necesario tener conocimiento básico de Wordpress y el plugin Editor Clasico activado.</div>
 
 <h2>Instalación</h2>
@@ -67,4 +70,4 @@ Agreguen el codigo de anuncios de ustedes y listo ya tendran anuncios en el side
 ##Notas:
 Se que esta todo muy rebuscado pero ire aprendiendo mas para mejorarla y agregar opciones al theme para no tener que ustedes no tengan que tocar el codigo nunca más.
 
-<h3>Hasta entonces!</h3>
+<h3>¡Hasta entonces!</h3>
