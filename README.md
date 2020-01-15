@@ -1,6 +1,6 @@
 <h1>Mr. Adulto</h1>
 
-<bold>Mr. Adulto</bold> Es un theme Wordpress para el nicho adulto.
+**Mr. Adulto** Es un theme Wordpress para el nicho adulto.
 
 <div style="background-color:red>
 Ojo! el theme no fue hecho por un profesional, fue hecho desde cero por una sola persona con menos de 1 mes de aprendizaje en desarrollo de Themes para Wordpress.
@@ -9,9 +9,9 @@ Ojo! el theme no fue hecho por un profesional, fue hecho desde cero por una sola
 
 <h2>Instalación</h2>
 1-Descomprimir el archivo .rar
-<br>
+
 2-Subir mr-adulto a Wordpress
-<br>
+
 3-Activar
 
 <h2>Como agregar los videos</h2>
