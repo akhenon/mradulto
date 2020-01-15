@@ -19,8 +19,8 @@ Para agregar los videos solo debemos conseguir el iframe, ejemplo con Youtube:
 <br>
 <img src="https://i.imgur.com/H0fSFjf.png"/>
 <br>
-
 Nos dirigimos a crear una entrada nueva, agregamos titulos e imagen destacada. Luego cambiamos el editor a HTML y pegamos el iframe y publicamos :D
+<br>
 <br>
 <img src="https://i.imgur.com/cRPv1jU.png"/>
 
