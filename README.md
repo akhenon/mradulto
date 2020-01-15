@@ -1,6 +1,6 @@
 <h1>Mr. Adulto</h1>
 
-Mr. Adulto Es un theme Wordpress para el nicho adulto.
+<bold>Mr. Adulto</bold> Es un theme Wordpress para el nicho adulto.
 
 <div style="background-color:red>
 Ojo! el theme no fue hecho por un profesional, fue hecho desde cero por una sola persona con menos de 1 mes de aprendizaje en desarrollo de Themes para Wordpress.
